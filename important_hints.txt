@@ -1,0 +1,15 @@
+Please read this file first before you start extending this project.
+
+In the following you will see some explanations for how to use the files.
+
+DIRECTORY /files:
+This directory contains all additional files that are read by the game itself. Its subdirectory "colors" contains files named after the corresponding language and only
+contains the names of colors in that language (i.e. "blauw" in the file "nl-NL.txt" which is Dutch for "blue").
+
+DIRECTORY /files/en-US:
+All other folders contain text files with the story texts. Each folder is named after the language, using the official language codes used i.e. in HTML. In case of "en-US"
+it contains the text files for the story in English (United States of America). If you want to add a language, please use this pattern for the directory (i.e. fr-FR for French).
+
+FILE run.sh:
+This file will run the app so that the player does not have to type in "dotnet run" everytime in the system's default CLI.
+For Windows just rename it to "run.cmd" or "run.bat".
