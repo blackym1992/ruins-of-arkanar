@@ -1,0 +1,6 @@
+Blauw
+Cyaan
+Groen
+Magenta
+Rood
+Geel

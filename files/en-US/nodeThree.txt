@@ -1,0 +1,9 @@
+You have reached another node. Three corridors are splitting it.
+Behind yourself there's the corridor you've come from.
+
+(1) left
+(2) middle
+(3) right
+(4) back
+
+Which one do you want to go along? 

@@ -1,0 +1,9 @@
+»Ich bin der Wächter der Ruinen des Drachentempels von Arkanar. Um
+passieren zu dürfen, musst du alle Rätsel der Höhlen von Arkanar
+lösen. Dir fehlen noch {0} Rätsel, um deinen Wert zu beweisen.
+Kehre nun zur ersten Gabelung zurück und suche die anderen
+Rätsel.«
+
+Der Greif peitscht mit seinem Schwanz. Ein hellblaues Leuchten
+umgibt dich. Sobald das Leuchten aufgehört hat, befindest du dich
+wieder am ersten Knotenpunkt.

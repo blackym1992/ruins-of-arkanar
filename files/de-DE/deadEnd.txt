@@ -1,0 +1,4 @@
+Du hast dich für den {0} Gang entschieden. Du folgst ihm
+bis an sein Ende. Hier musst du feststellen, dass es sich um eine
+Sackgasse handelt. Daher kehrst du zum letzten Kontrollpunkt
+zurück.

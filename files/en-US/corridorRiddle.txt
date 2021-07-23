@@ -1,0 +1,12 @@
+You have chosen the {0} corridor. At its end you are confronted
+by a riddle. You have to solve it. If you're right, you may
+proceed. But if your answer is wrong a bad luck will come
+upon you.
+
+In front of you there is a huge vault. It seems you have landed
+at another dead end. Behind yourself there's the corridor you've
+come from.
+
+Do you want to (s)olve the riddle or go (b)ack?
+
+Make your choice: 

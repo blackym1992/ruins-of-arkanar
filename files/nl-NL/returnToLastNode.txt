@@ -1,0 +1,3 @@
+Je hebt besloten om terug te keren naar het {0} kruispunt. Er
+kunnen daar nog steeds geheimen op je wachten die je niet hebt
+ontdekt. Of wat gevaar. Wees voorzichtig!

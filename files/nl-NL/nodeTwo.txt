@@ -1,0 +1,8 @@
+Je hebt een andere kruispunt bereikt. Vanaf hier vertakken twee gangen
+zich. Achter je is de doorgang die je hierheen bracht.
+
+(1) links
+(2) rechts
+(3) terug
+
+Welke wil je gaan? 

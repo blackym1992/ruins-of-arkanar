@@ -1,0 +1,2 @@
+Du hast dich für den {0} Gang enschieden. Dieser endet in
+einem weiteren Knotenpunkt.

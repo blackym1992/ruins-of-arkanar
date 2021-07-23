@@ -1,0 +1,8 @@
+Hoi {0}!
+Tot welke volk wil je behoren?
+
+(1) Draaken
+(2) Elfen
+(3) Mensen
+
+Maak je keuze: 

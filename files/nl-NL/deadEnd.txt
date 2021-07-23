@@ -1,0 +1,3 @@
+Je hebt de {0} weg gekozen. Je volgt het tot het einde. Hier
+moet je beseffen dat dit een doodlopende weg is. Je gaat terug naar
+het laatste controlepunt.

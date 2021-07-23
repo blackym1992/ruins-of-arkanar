@@ -1,0 +1,6 @@
+The orb glows for a short amount of time and disappears. A few
+sconds later a passage shows up in front of you. It is blocked
+by an elementary field of {0}
+
+Shortly after the appearance of the passage the elementary field
+is vanishing thus freeing the way. Remember the riddle's solution!

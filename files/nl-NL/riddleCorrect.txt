@@ -1,0 +1,6 @@
+De bal licht kort op en verdwijnt. Een paar seconden later
+verschijnt er een passage voor je. Dit wordt geblokkeerd door een
+elementair veld van {0}.
+
+Kort na het ontstaan van de passage lost het elementaire veld op
+en geeft het plaats. Denk aan de oplossing van het raadsel!

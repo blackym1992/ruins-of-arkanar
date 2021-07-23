@@ -1,0 +1,9 @@
+Du hast einen weiteren Knotenpunkt erreicht. Von diesem zweigen drei
+Gänge ab. Hinter dir liegt der Gang, der dich herbrachte.
+
+(1) links
+(2) Mitte
+(3) rechts
+(4) zurück
+
+Welchen möchtest du gehen? 

@@ -1,0 +1,15 @@
+Der Tunnel, dem du gefolgt bist, endet in einem gewaltigen
+Gewölbe. In diesem Gewölbe befinden sich deckenhohe Bücherregale.
+Diese sind mit Büchern und Schriftrollen aller Art gefüllt.
+Eigentlich handelt es sich um ein einziges, durchgängiges
+Bücherregal. Dieses wird bei genauerem Hinsehen von Fackeln
+unterbrochen, die an die Köpfe von Drachen erinnern.
+
+Herzlichen Glückwunsch!
+Du hast die Ruinen des Drachentempels von Arkanar entdeckt!
+
+Als {0} steht es dir frei, jederzeit zurückzukehren,
+{1}. So wirst du deine Versuche reduzieren
+können.
+
+Benötigte Versuche: {2}

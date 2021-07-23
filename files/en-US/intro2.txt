@@ -1,0 +1,8 @@
+Hello {0}!
+Which people do you want to belong to?
+
+(1) Dragons
+(2) Elves
+(3) Humans
+
+Make your choice: 

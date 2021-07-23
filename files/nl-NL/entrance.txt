@@ -1,0 +1,14 @@
+Welkom, {0}!
+Dit zijn de grotten van Arkanar.
+
+Je bent het grottenstelsel binnengegaan. Er is maar één doorgang
+voor je. Je volgt deze doorgang tot het einde.
+
+Hier eindigt het op een kruispunt. In totaal vertakken nog drie
+andere corridors zich hiervan.
+
+(1) links
+(2) midden
+(3) rechts
+
+Welke wil je gaan? 

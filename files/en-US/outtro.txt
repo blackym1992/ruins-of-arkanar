@@ -1,0 +1,14 @@
+The tunnel you followed ends in a huge vault. In this vault,
+there are book shelves that reach the ceiling. They are
+filled with books and scrolls of all kinds. Actually it is
+just one continuous book shelf. At a second look, it shows
+that it is interrupted by torches which remind one of the
+heads of dragons.
+
+Congratulations!
+You discovered the ruins of the Dragon Temple of Arkanar!
+
+As a {0} you may return anytime, {1}. By doing this you'll
+be able to reduce the amount of tries.
+
+Tries needed: {2}

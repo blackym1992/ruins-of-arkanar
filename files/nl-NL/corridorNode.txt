@@ -1,0 +1,2 @@
+Je hebt gekozen voor de {0} besturing. Dit eindigt in
+een andere kruising.

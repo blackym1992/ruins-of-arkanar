@@ -1,0 +1,7 @@
+Die leuchtende Kugel sagt:
+»Deine Antwort ist falsch. Erlebe deine Niederlage!«
+
+Das Felsmassiv beginnt zu beben. Steine und Felsstaub regnen
+von der Decke hinab. Du musst das Gewölbe, so schnell du kannst,
+verlassen. Gerade dem Untergang entkommen, findest du dich am
+{0} Knotenpunkt wider. Hinter dir wird der Gang verschüttet.

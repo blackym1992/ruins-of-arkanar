@@ -1,0 +1,14 @@
+De tunnel die je volgde eindigt in een enorme kluis. In dit gewelf
+staan plafondhoge boekenplanken. Deze zijn gevuld met allerlei
+soorten boeken en rollen. Eigenlijk is het een enkele doorlopende
+boekenkast. Bij nader inzien wordt het onderbroken door fakkels,
+die doen denken aan drakenkoppen.
+
+Gefeliciteerd!
+Je hebt de ruïnes van de Drakentempel van Arkanar ontdekt!
+
+Als een {0} ben je altijd vrij om terug te keren,
+{1}. Op die manier kunt je jouw
+pogingen verminderen.
+
+Vereiste tests: {2}

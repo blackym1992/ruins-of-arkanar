@@ -1,0 +1,10 @@
+Welcome to the Caves of Arkanar!
+
+In this short adventure a voyage through the caves of Arkanar
+will await you. Legend has it, that they protect the dragon's
+greatest secret. But you will meet traps and riddles that you
+need to overcome. You be warned!
+
+But before we go into the caves I need to know your name.
+
+What's your name? 

@@ -1,0 +1,6 @@
+Blau
+Cyan
+Grün
+Magenta
+Rot
+Gelb

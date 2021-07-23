@@ -1,0 +1,3 @@
+You have chosen the {0} corridor. You follow it to its end.
+Here you see that it's a dead end. So you return to the last
+checkpoint.

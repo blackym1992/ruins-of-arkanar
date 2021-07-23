@@ -1,0 +1,12 @@
+Du hast dich für den {0} Gang entschieden. An dessen Ende
+triffst du auf ein Rätsel. Dieses musst du lösen. Liegst du
+richtig, darfst du deinen Weg fortsetzen. Doch wenn du falsch
+antwortest, wird dich ein schreckliches Unheil erwarten!
+
+Vor dir befindet sich ein großes Gewölbe. Es scheint, du wärst
+in einer weiteren Sackgasse gelandet. Hinter dir liegt der Gang,
+aus dem du gekommen bist.
+
+Möchtest du das Rätsel (l)ösen, oder (z)urückkehren?
+
+Triff deine Wahl: 

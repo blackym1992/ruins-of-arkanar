@@ -1,0 +1,8 @@
+Hallo {0}!
+Welchem Volk möchtest du angehören?
+
+(1) Drachen
+(2) Elfen
+(3) Menschen
+
+Treffe deine Wahl: 

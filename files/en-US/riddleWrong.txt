@@ -1,0 +1,7 @@
+The glowing orb says:
+»Your answer is wrong. Witness your defeat!«
+
+The rock massif begins to quake. Stones and rock dust rain down
+from the ceiling. You have to leave the vault as fast as you can.
+Just escaping the doom, you will find yourself at the {0} node.
+Behind you, the passage is shaken.

@@ -1,0 +1,7 @@
+»You do have a lot of wisdom for such a young {0},
+{1}. You may pass.«
+
+The guardian disappears into nothingness. In front of you,
+the rock wall disappears into the ground and gives you a
+view of another passage. You enter the hidden passage
+and follow it.

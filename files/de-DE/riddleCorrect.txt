@@ -1,0 +1,6 @@
+Die Kugel leuchtet kurz auf und verschwindet. Einige Sekunden
+später erscheint vor dir ein Durchgang. Dieser wird von einem
+elementaren Feld aus {0} blockiert.
+
+Kurz nach dem Auftauchen des Durchgangs löst sich das elementare
+Feld auf und gibt den Weg frei. Merke dir die Lösung des Rätsels!

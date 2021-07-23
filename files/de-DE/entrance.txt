@@ -1,0 +1,14 @@
+Willkommen, {0}!
+Dies sind die Höhlen von Arkanar.
+
+Du hast das Höhlensystem betreten. Vor dir liegt lediglich ein
+Gang. Du folgst diesem Gang bis zu seinem Ende.
+
+Hier endet er in einem Knotenpunkt. Von diesem zweigen insgesamt
+drei weitere Gänge ab.
+
+(1) links
+(2) Mitte
+(3) rechts
+
+Welchen willst du nehmen? 

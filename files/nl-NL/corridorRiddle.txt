@@ -1,0 +1,12 @@
+Je koos de {0} gang. Aan het einde vindt je een raadsel.
+Deze moet je oplossen. Als je gelijk hebt, mag je verder
+gaan. Maar als je verkeerd antwoordt, wacht je een
+vreselijke ramp!
+
+Voor je staat een grote kluis. Het lijkt erop dat je weer een
+doodlopende weg hebt bereikt. Achter je is de doorgang waar
+je vandaan kwam.
+
+Wil je het raadsel (o)plossen, of (t)eruggaan?
+
+Maak je keuze: 

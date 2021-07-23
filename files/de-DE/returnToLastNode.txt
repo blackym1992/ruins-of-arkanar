@@ -1,0 +1,3 @@
+Du hast dich dazu entschieden, zum {0} Knotenpunkt zurückzukehren.
+Dort warten möglicherweise noch Geheimnisse auf dich, die du noch
+nicht entdeckt hast. Oder irgendeine Gefahr. Sei vorsichtig!
